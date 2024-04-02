@@ -1,4 +1,4 @@
-### Gut And Github Tutorials
+### Git And Github Tutorials
 
 
 ## Amit Verma
